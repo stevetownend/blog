@@ -10,9 +10,11 @@ How to write blog posts and publish
             hexo server 
             
             and browsing to http://localhost:4000
-            
+
 2, Using VS Code, edit the files in source\_posts that match the created file name
 3, Save source edits using VS Code / Git integration
 4, Publish the site using a cmd and the commmand 
 
     hexo clean && hexo deploy
+
+    Note: May get errors if any cmd or file explorers are in the "public" sub-folder
