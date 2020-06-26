@@ -7,10 +7,11 @@ tags:
     - Diving
     - Programming
 ---
-# Who am I and why do I blog?
-
 # Steve Townend
-I am a proud father of three wonderful children and three grandchildren. I live in a small town called Boroughbridge on the River Ure in North Yorkshire. I now live alone with my dog *Marla*, a loyal German Shepherd cross.
+![Ready for a dive in Malta](/images/SteveTownend.jpg)
 
-I created this blog to collect my thoughts on two very different aspects of my life. The word "Fish" in the blog title refers to my life-long passion for Angling and a more recent passion for Scuba Diving. The word "Chips" in the title refers to my professional passion for all things computer related, primarly software development.
+I live in a small town called Boroughbridge on the River Ure in North Yorkshire. I live with my dog *Marla*, a loyal German Shepherd cross.
+I have three wonderful children and three grandchildren (at the last count). 
+
+I created this blog to collect my thoughts on two very different aspects of my life. The word "Fish" in the blog title refers to my life-long passion for Angling and a more recent passion for Scuba Diving. The word "Chips" refers to my professional and hobbyist passion for all things computer related, primarly software development.
 
