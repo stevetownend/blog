@@ -13,7 +13,7 @@ After the earlier shenanigans with the dog and having seen reports of catches to
 
 Went back to peg 11 hoping that my earlier loose feed might have attracted some fish. However it was another fish-less trip. I did manage a couple of taps on the meat. One bite was such a wrap around that I was certain to hook up - alas I struck into nothing!
 
-There was a small puddle in front of me that was draining as the river receded. There were a few small fry and this little freshwater shrimp showing that the river alive with natural food for the fish:-
+There was a small puddle in front of me that was draining as the river receded. There were a few small fry and this little freshwater shrimp showing that the river was alive with natural food for the fish:-
 
 
 ![Freshwater Shrimp](/images/2020-07-01/78bddd0b4c8e4abbb91371306f4a847e.jpg)
