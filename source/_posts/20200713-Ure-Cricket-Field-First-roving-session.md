@@ -26,3 +26,7 @@ By the time I got to peg 5 I decided to remain there and settled into a snack/dr
 I did not get any other bites but that's not suprising if there were large Pike around. I had also seen an Otter patrolling the far bank which probably didn't help either.
 
 So, no fish but I developed a way to get my bait under a tree without having to cast dangerously close to the tree. I also modified my kit/load even more by putting my landing net in my folder chair meaning that I only had to carry my rod and landing net pole - everything else attached to my ruck sack. This was very comfortable and allowed me to walk with ease. A final couple of bonuses is that, whilst walking back in near darkness, I saw a family of Deer playing on the river bank. I also saw several big black slugs on my way back so decided to collect a few with some leaves so that I could try them on my next visit.
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

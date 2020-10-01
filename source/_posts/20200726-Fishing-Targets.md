@@ -8,55 +8,46 @@ I don't generally set targets for pleasure fishing but, having moved to Boroughb
 
 Some of these targets may take years to achieve but it will be interesting to be able to look back on my journey.
 
-<style>
-    th { 
-        padding: 2px !important;
-    }
-    td { 
-        padding: 2px !important;
-    }
+The *Details* column may be a link to the blog write-up of that session (where appropriate). It is best viewed in landscape when using a phone.
 
-</style>
+## Chub
 
-|||
-|---------|--|
-|**Target**|Catch at least 10 Chub in my 1st season fishing the river Ure|
-|<nobr>**Date Set**</nobr>|2020-06-16|
-|<nobr>**Date Met**</nobr>|2020-07-10|
-|**Details**|It took me over 2 weeks to catch my first Chub but then quickly achieved my target|
-|---------|------------------------------------------------|
-|**Target**|Chub of at least 5lb|
-|<nobr>**Date Set**</nobr>|2020-07-10|
-|<nobr>**Date Met**</nobr>|2020-07-21|
-|**Details**|Chub of 5lb 2oz, within 30 minutes of a whopping 10lb 4oz Barbel!|
-|---------|------------------------------------------------|
-|**Target**|Barbel of at least 10lb|
-|<nobr>**Date Set**</nobr>|2020-07-10|
-|<nobr>**Date Met**</nobr>|2020-07-21|
-|**Details**|Brilliant session also included a large Chub that met my latest Chub target|
-|---------|------------------------------------------------|
-|**Target**|Chub of at least 6lb|
-|<nobr>**Date Set**</nobr>|2020-07-22|
-|<nobr>**Date Met**</nobr>||
-|**Details**||
-|---------|------------------------------------------------|
-|**Target**|Perch of at least 2lb|
-|<nobr>**Date Set**</nobr>|2020-07-22|
-|<nobr>**Date Met**</nobr>||
-|**Details**||
-|---------|------------------------------------------------|
-|**Target**|Roach of at least 1lb 8oz|
-|<nobr>**Date Set**</nobr>|2020-07-22|
-|<nobr>**Date Met**</nobr>||
-|**Details**||
-|---------|------------------------------------------------|
-|**Target**|Barbel of at least 11lb|
-|<nobr>**Date Set**</nobr>|2020-07-22|
-|<nobr>**Date Met**</nobr>||
-|**Details**||
-|---------|------------------------------------------------|
-|**Target**|Daytime Ure session with over 25lb of Chub & Barbel|
-|<nobr>**Date Set**</nobr>|2020-07-22|
-|<nobr>**Date Met**</nobr>||
-|**Details**||
+|Date set|Target|Date met|Details|
+|---------|------| --- |----------|
+|<nobr>2020-06-16</nobr>|Catch at least 10 Chub in my 1st season fishing the river Ure|<nobr>2020-07-10</nobr>|It took me over 2 weeks to catch my first Chub but then quickly achieved my target|
+|<nobr>2020-07-10</nobr>|Chub of at least 5lb|<nobr>2020-07-21</nobr>|<a href="/2020/07/20200721-Ure-Cricket-Field-Big-Barbel-And-Chub/">Chub of 5lb 2oz, within 30 minutes of a whopping 10lb 4oz Barbel!</a>|
+|<nobr>2020-07-22</nobr>|Chub of at least 6lb|<nobr>TBD</nobr>||
+
+## Barbel
+
+|Date set|Target|Date met|Details|
+|---------|------| --- |----------|
+|<nobr>2020-07-10</nobr>|Barbel of at least 10lb|<nobr>2020-07-21</nobr>|<a href="/2020/07/20200721-Ure-Cricket-Field-Big-Barbel-And-Chub/">10lb 4oz, brilliant session also included a large Chub that met my latest Chub target</a>|
+|<nobr>2020-07-22</nobr>|Barbel of at least 11lb|<nobr>2020-10-01</nobr>|<a href="/2020/10/20201001-Ellenthorpe/">11lb - equalling my PB</a>|
+|<nobr>2020-10-02</nobr>|Barbel of at least 11lb 8oz|<nobr>TBD</nobr>||
+
+## Bream
+
+|Date set|Target|Date met|Details|
+|---------|------| --- |----------|
+|<nobr>2020-08-22</nobr>|Bream of at least 7lb|<nobr>TBD</nobr>||
+
+## Perch
+
+|Date set|Target|Date met|Details|
+|---------|------| --- |----------|
+|<nobr>2020-07-22</nobr>|Perch of at least 2lb|<nobr>2020-08-31</nobr>|<a href="/2020/08/20200831-CornDryers/">2lb 8oz</a>|
+|<nobr>2020-09-02</nobr>|Perch of at least 3lb|<nobr>TBD</nobr>||
+
+## Roach
+
+|Date set|Target|Date met|Details|
+|---------|------| --- |----------|
+|<nobr>2020-07-22</nobr>|Roach of at least 1lb 8oz|<nobr>TBD</nobr>||
+
+## Mixed
+
+|Date set|Target|Date met|Details|
+|---------|------| --- |----------|
+|<nobr>2020-07-22</nobr>|Daytime Ure session with over 25lb of Chub & Barbel|<nobr>TBD</nobr>||
 

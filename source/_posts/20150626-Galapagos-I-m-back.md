@@ -8,7 +8,7 @@ tags:
 - Whalesharks
 ---
 **Background**
-I just had to come back to the Galapagos. This time my long time dive buddy Nigel came too. Unfortunately there was an El-Nino weather phenomenon which signicantly rasied the water temperature and meant that the Hammerheads stayed in the deep and beyond our reach for most of the trip. Still it was a wonderful trip with many surpises - you don't want to skip any dives here!
+I just had to come back to the Galapagos. This time my long time dive buddy Nigel came too. Unfortunately there was an El-Nino weather phenomenon which signicantly raised the water temperature and meant that the Hammerheads stayed in the deep and beyond our reach for most of the trip. Still it was a wonderful trip with many surpises - you don't want to skip any dives here!
 
 The following Microsoft Sways document the trip in more detail with commentary, photos and videos.
 

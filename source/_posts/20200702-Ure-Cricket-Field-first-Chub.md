@@ -37,3 +37,7 @@ I immediately setup my camera just in case there were more Barbel around. I fish
 
 
 ![Smaller Chub to end the session](/images/2020-07-02/ffa035a704fa424cbc503a230519a5d0.jpg)
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

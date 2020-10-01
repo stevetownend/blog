@@ -27,3 +27,6 @@ If you have read about me getting locked in on my previous visit then it may tic
 ![To my right](/images/2020-06-21/7fb1eca7b7bf4b39bb7111f37d960105.jpg)
 
 
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

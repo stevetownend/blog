@@ -56,5 +56,8 @@ My Barbel rod started to twitch. I thought it was another Chub pecking at the me
 Once I had let the fish recover and got my photograph I continued to fish meat near the bush. I got another bite almost immediately but missed it - arghh! However this built up my confidence, there were definitely more feeding fish around.
 
 **One more experiment**
-I usually pack up once there is no more natural light. At the moment this is around 9:30 depending on the cloudiness of the sky. Tonight I decided to fish on a little longer just to see if the Chub and Barbel would get their heads down in darkness. I did get one or two knocks but, to be honest, it wasn't worth the hassle of packing up in darkness. Some rivers come alive at night, particularly for Barbel but that was not my experience on the Ure. Ah well, now I know and won't bother trying again. Perhaps the fish feed at night when there are anglers throwing in bait at night. Who knows!
+I usually pack up once there is no more natural light. At the moment this is around 9:30 depending on the cloudiness of the sky. Tonight I decided to fish on for 45 minutes into darkness just to see if the Chub and Barbel would get their heads down in darkness. I did get one or two knocks but, to be honest, it wasn't worth the hassle of packing up in darkness. Some rivers come alive at night, particularly for Barbel but that was not my experience on the Ure. Ah well, now I know and won't bother trying again. Perhaps the fish feed at night when there are anglers throwing in bait at night. Who knows!
 
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

@@ -24,3 +24,7 @@ Later in the morning I went to apologise to the neighbours but they hadn't heard
 I also had a look on Amazon and got myself this trench spade. At 40cm long and fairly lightweight, its just the job for slippery river banks: -
 
 ![Trench Spade](/images/2020-07-01/4824abd17b5d477bb3277684707e274c.jpg)
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

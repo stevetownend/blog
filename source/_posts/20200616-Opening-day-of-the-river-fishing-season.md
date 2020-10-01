@@ -25,4 +25,6 @@ A small Pike attacked my keepnet and latched onto the Roach. I had to force the 
 
 ![To my right](/images/2020-06-16/95c26fea545b45dbb7a61bf0be8880c9.jpg)
 
-
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

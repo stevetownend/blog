@@ -24,3 +24,7 @@ I was just starting to contemplate a blank session (thankfully not getting too m
 ![8lb 8oz Barbel](/images/2020-07-26/8lb8ozBarbel.jpg)
 
 That was the only bite of the session. Still, I had now got to know another peg and had a lovely Barbel to boot. 
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

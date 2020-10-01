@@ -8,7 +8,7 @@ tags:
 - Chub
 - Cricket Field
 ---
-Following on from my roving session, I decided to add another rod (no rod bag) and baits in a zipped up groundbait bowl/bag. I decided to take my usual loosefeed mix tonight and go back to my favourite peg 14 for the evening. I also managed to put my landing net pole into my rucksack so had onnly 2 rods in one hand and my groundbait bag in the other. Again this was a very light load and walking to the river was a breeze.
+Following on from my roving session, I decided to add another rod (no rod bag) and baits in a zipped up groundbait bowl/bag. I decided to take my usual loosefeed mix tonight and go back to my favourite peg 14 for the evening. I also managed to put my landing net pole into my rucksack so had only 2 rods in one hand and my groundbait bag in the other. Again this was a very light load and walking to the river was a breeze.
 
 I used my 2 swan shot link ledger with cheese paste near the tree and my Barbel rod with a 3/4oz lead just this side of the main flow. I would stick to luncheon meat on the Barbel rod.
 
@@ -27,3 +27,7 @@ Eventually, as the evening drew to a close, I decided to try luncheon meat near 
 I did not get any bites on my Barbel rod/ 8lb line. However I have decided that I am going to use 8lb line (instead of 6lb) on my Chub rod and step up to 10lb on the Barbel rod. It seems that I have to fish close to snags so need equipment that allows me to get the fish away from the snags asap.
 
 On the way back to the car I found another couple of slugs so look forward to my next trip!
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

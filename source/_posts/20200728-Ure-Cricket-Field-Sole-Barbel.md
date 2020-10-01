@@ -35,3 +35,6 @@ The commotion caused by this fish clearly disturbed the swim. I struggled to get
 
 Whilst packing up I heard a fish leap just downstream of me and out of view. A few minutes later a fish leapt in front of me. I think it was a Salmon and was probably the same fish.
 
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

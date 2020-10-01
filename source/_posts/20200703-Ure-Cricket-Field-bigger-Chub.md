@@ -28,3 +28,7 @@ The day just got windier and windier making float fishing impossible. My last ca
 Having learned the lesson yesterday, I did set up my camera straight away. I attach it to a bankstick then have a cable to the camera so that I can take the picture whilst holding the fish. One downside of this is the British weather - it rained several times today. So, thinking cap on...
 
 ![Protecting my camera](/images/2020-07-03/842f9c9ca1144ded9da29e9efa606c71.jpg)
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

@@ -20,3 +20,6 @@ There was a small puddle in front of me that was draining as the river receded. 
 
 I had seen that more rain was forecast but expected it to be light so I left my 7kg brolly in the car - it is a fair walk and I am sure I am getting shorter lugging all that gear! Big mistake, the rain was heavier and more persistent than I expected. I got soaked and am just glad that I didn't have any maggots with me.
 
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

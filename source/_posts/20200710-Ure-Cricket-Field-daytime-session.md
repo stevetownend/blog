@@ -31,3 +31,7 @@ This Chub gave a decent account of itself and was significant in that I set myse
 Although I had a few more knocks, there were no more positive bites despite the cloud and rain.
 
 So my thoughts are turning to my next session; I think I will give this weekend a miss as I have been quite tired and was falling asleep several times today. I think that my next evening session will involve roving between pegs because it looks to me like cheese paste and breadflake result in fairly quick bites when swung near a tree/bush if there are any Chub in residence. That will also mean that I can travel very lightly and will just have to risk the odd soaking - hopefully the new Diawa Retex bib-brace and coat with waxed hat will keep the worst of the rain out.
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

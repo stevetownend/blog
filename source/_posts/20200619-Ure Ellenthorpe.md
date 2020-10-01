@@ -23,4 +23,6 @@ Had another small Pike attack my keepnet but I managed to fend it off before it 
 **Nasty Surprise**
 I got to the gate about 22:30 to find that it was locked and all of the farm buildings were in darkness. Thankfully my mum was at my house and able to look after the dog. I also had a fair bit if packup left so slept (rather well) in my car until I could escape at 7:00am!
 
-
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

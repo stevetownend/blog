@@ -25,3 +25,7 @@ I did get a couple of twitches on the far bank rod but none of them turned into 
 Having missed that fish due to the bait runner, I was not sure if I had spooked the fish. However, I started to get quick pulls on the tip. These weren't in the rod-bending category but a couple were strickable. However I did not connect with anything until just before I was due to leave around 9:30 - gets dark by then. I hit into a small Chub of maybe a pound and three quarters. I think that specific Chub may have been solely responsible for all of the bites that I had been having. The speed of the hits and the fact that my tip registered the bite for just a moment had me thinking that Chub were perhaps nipping at the meat - I only have to think back to a few days ago when I retrieved a cube of meat that had a bite out of it.
 
 So, no photos tonight and just a single small fish. I guess it would become boring if big fish were a guarantee so I will learn a few lessons from tonight (especially about not tinkering too much) and look forward to my next session. I wonder if the fish are now starting to disperse down river. I may walk a bit further for my next session and put that theory to the test.
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

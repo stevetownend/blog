@@ -37,3 +37,7 @@ This was a thoroughly enjoyable session and was crowned off by this marvellous s
 
 
 ![Sunset over the river](/images/2020-07-06/081b48f0707148fe93bce88b0486ddc4.jpg)
+
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|

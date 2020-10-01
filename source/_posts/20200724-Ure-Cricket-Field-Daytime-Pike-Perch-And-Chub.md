@@ -58,3 +58,6 @@ My extra hour was almost passed and, right on cue, my worm was taken by another 
 
 Eventually I decided to call it a day. I had caught a 10lb Pike, 1lb 10oz Perch, 2 Chub and probably around 15-20 Dace. Considering the conditions I was quite happy with this but still long for a daytime session that produces more Chub and Barbel action. For now, evenings seem the best bet.
 
+|||
+|---------|------|
+|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|
