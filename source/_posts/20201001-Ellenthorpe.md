@@ -21,7 +21,7 @@ So, my next trip focussed on Perch at the Corn Dryers. I also put out my Barbel 
 I nipped out for a 2 hour session after work (it gets dark so early now). I went to Ellenthorpe middle - peg 26. I fished one rod with halibut pellet and a PVA mesh bag of freebies and one rod with lobworm. Both were fished in mid river.
 
 **My best Barbel on the Ure**
-After about 45 minutes (about 6pm) I got a solid bite on the halibut pellet and had a great fight from a feisty 11lb Barbel. This equals my best ever Barbel (on the Swale about 30 years ago - yikes!). It also has a very noticable knick on it's tail fin. 
+After about 45 minutes (about 6pm) I got a solid bite on the halibut pellet and had a great fight from a feisty 11lb Barbel. This equals my best ever Barbel (on the Swale about 30 years ago - yikes!). It also has a very noticable nick on it's tail fin. 
 
 ![11lb Barbel](/images/2020-10-01/11lbBarbel.jpg)
 

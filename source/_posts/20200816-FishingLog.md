@@ -22,7 +22,8 @@ This log will record all fish that I consider worthy of recording. This will var
 |30 Aug 20|Ure Cricket Field peg 6|1|<a href="/2020/08/20200830-CricketField/">6lb 0oz</a>|
 |18 Sep 20|Ure Cricket Field peg 14|1|<a href="/2020/09/20200918-MultiTripSummary/">7lb 4oz</a>|
 |01 Oct 20|Ure Ellenthorpe Middle peg 26|1|<a href="/2020/10/20201001-Ellenthorpe/">11lb - equalling my PB</a>|
-|2020 Total||11||
+|02 Oct 20|Ure Ellenthorpe Middle peg 25|2|<a href="/2020/10/20201002-Ellenthorpe/">9lb and 7lb 4oz</a>|
+|2020 Total||13||
 
 ## Bream
 

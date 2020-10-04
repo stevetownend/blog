@@ -32,6 +32,12 @@ The *Details* column may be a link to the blog write-up of that session (where a
 |---------|------| --- |----------|
 |<nobr>2020-08-22</nobr>|Bream of at least 7lb|<nobr>TBD</nobr>||
 
+## Grayling
+
+|Date set|Target|Date met|Details|
+|---------|------| --- |----------|
+|<nobr>2020-10-02</nobr>|First ever Grayling|<nobr>TBD</nobr>||
+
 ## Perch
 
 |Date set|Target|Date met|Details|
