@@ -5,6 +5,7 @@ tags:
 - Angling
 - River Ure
 - Level Normal
+- Level High
 - Barbel
 - Ellenthorpe Middle
 ---
@@ -38,6 +39,9 @@ This one had a noticeable nick in the bottom of it's tail fin.
 This is the first time that I have managed more than 1 Barbel in a session on the Ure. I wasn't able to get a photo of both together due to the unfashionably late arrival of the second fish. Maybe next time I will go all out and use halibut pellet on both rods so see if I can beat 2 in a session.
 
 **Two days later, up again**
+
+***Level 13.4m and peaking.***
+
 After a lousy Saturday where we all experienced a lot of rain, the river was rising most of the day on Sunday. It looked to be peaking around 4pm so decided to try a couple of hours until dusk. Whilst I was expecting it to be up by 3 metres from Friday, I didn't really appreciate what that meant having not fished this stretch very much. When I got there the river was well over it's normal banks and working it's way up the flood bank. The following photo shows just how high it was - I would normally be fishing in that line of trees that are 10m out in the river!
 
 ![Flood](/images/2020-10-02/Flood.jpg)

@@ -23,9 +23,11 @@ This log will record all fish that I consider worthy of recording. This will var
 |18 Sep 20|Ure Cricket Field peg 14|1|<a href="/2020/09/20200918-MultiTripSummary/">7lb 4oz</a>|
 |01 Oct 20|Ure Ellenthorpe Middle peg 26|1|<a href="/2020/10/20201001-Ellenthorpe/">11lb - equalling my PB</a>|
 |02 Oct 20|Ure Ellenthorpe Middle peg 25|2|<a href="/2020/10/20201002-Ellenthorpe/">9lb and 7lb 4oz</a>|
-|2020 Total||13||
+|07 Oct 20|Ure Ellenthorpe Middle peg 25|1|<a href="/2020/10/20201007-Ellenthorpe/">9lb 10oz</a>|
+|09 Oct 20|Ure Ellenthorpe Middle peg 25|1|<a href="/2020/10/20201009-Ellenthorpe/">8lb 0oz</a>|
+|2020 Summary|Total weight: 131lb 12oz, Average weight: 8lb 13oz|15 fish||
 
-## Bream
+## Bream (Over 4lb)
 
 |Date|Venue|Qty|Details|
 |---------|------| ---: |----------|
@@ -33,9 +35,10 @@ This log will record all fish that I consider worthy of recording. This will var
 |06 Jun 20|Roecliffe Lake|3|<a href="/2020/06/20200601-Welcome-relief-from-Covid-19/">Lake report</a>|
 |10 Jun 20|Roecliffe Lake|2|<a href="/2020/06/20200601-Welcome-relief-from-Covid-19/">Lake report</a>|
 |12 Jun 20|Roecliffe Lake|1|<a href="/2020/06/20200601-Welcome-relief-from-Covid-19/">Lake report</a>|
-|2020 Total||8||
+|09 Oct 20|Ure Ellenthorpe Middle peg 25|1|<a href="/2020/10/20201009-Ellenthorpe/">5lb 8oz</a>|
+|2020 Summary|Total weight: 40lb 6oz, Average weight: 4lb 8oz|9 fish||
 
-## Chub
+## Chub (Over 3lb)
 
 |Date|Venue|Qty|Details|
 |---------|------| ---: |----------|
@@ -48,18 +51,18 @@ This log will record all fish that I consider worthy of recording. This will var
 |06 Aug 20|Ure Cricket Field peg 14|1|<a href="/2020/08/20200806-CricketField/">4lb 0oz</a>|
 |18 Aug 20|Ure Cricket Field peg 14|1|<a href="/2020/08/20200818-CricketField/">3lb 0oz</a>|
 |28 Aug 20|Ure Corn Dryers near fence|1|<a href="/2020/08/20200824-28-RoundUp/">4lb 0oz</a>|
-|2020 Total||10||
+|2020 Summary|Total weight: 38lb 9oz, Average weight: 3lb 14oz|10 fish||
 
-## Perch
+## Perch (Over 1lb 8oz)
 
 |Date|Venue|Qty|Details|
 |---------|------| ---: |----------|
 |24 Jul 20|Ure Cricket Field barrel peg|1|<a href="/2020/07/20200724-Ure-Cricket-Field-Daytime-Pike-Perch-And-Chub/">1lb 10oz</a>|
 |14 Aug 20|Ure Ellenthorpe Corn Dryers|1|<a href="/2020/08/20200814-Ure-CornDryers/">1lb 9oz</a>|
 |31 Aug 20|Ure Ellenthorpe Corn Dryers|1|<a href="/2020/08/20200831-CornDryers/">2lb 8oz</a>|
-|2020 Total||3||
+|2020 Summary|Total weight: 8lb 1oz, Average weight: 2lb 0oz|4 fish||
 
-## Roach
+## Roach (Over 1lb)
 
 |Date|Venue|Qty|Details|
 |---------|------| ---: |----------|
