@@ -3,6 +3,7 @@ title: Another first for the Ure
 date: 2020-10-10 00:00:42
 tags:
 - Angling
+- River Ure
 - River Falling
 - Barbel
 - Ellenthorpe Middle
@@ -39,7 +40,7 @@ The light was failing fast and I was about 15 minutes away from leaving when I g
 
 ![8lb Barbel](/images/2020-10-09/8lbBarbel.jpg)
 
-This fish took a long time to recover in the landing net and I released it after a few minutes. Then it rose to surface again and was struggling. I was able to net it and spent several more minutes holding it to let water flow through it's gills. It seemed to want to go so I released it and, yet again, it popped up to the surface. So I netted it again and found an area near the end of my peg where I could stand in 8-10 inches of water and cradle the fish to help it right itself. After a while I noticed that it was blowing bubbles out of its mouth and it's gill covers. That's obviously what had been causing it distress. I also noticed that the skin around where its dorsal fin met it's body seemed very pale as if the fish was ill. This is perghaps why it hand't fought the way I expected. Eventually I was able to release the fish and it seemed to swim away fine.
+This fish took a long time to recover in the landing net and I released it after a few minutes. Then it rose to surface again and was struggling. I was able to net it and spent several more minutes holding it to let water flow through it's gills. It seemed to want to go so I released it and, yet again, it popped up to the surface. So I netted it again and found an area near the end of my peg where I could stand in 8-10 inches of water and cradle the fish to help it right itself. After a while I noticed that it was blowing bubbles out of its mouth and it's gill covers. That's obviously what had been causing it distress. I also noticed that the skin around where its dorsal fin met it's body seemed very pale as if the fish was ill. This is perhaps why it hand't fought the way I expected. Eventually I was able to release the fish and it seemed to swim away fine.
 
 |||
 |---------|------|

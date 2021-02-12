@@ -3,6 +3,7 @@ title: Barbel in evidence
 date: 2020-10-07 21:01:43
 tags:
 - Angling
+- River Ure
 - River Falling
 - Barbel
 - Ellenthorpe Middle
