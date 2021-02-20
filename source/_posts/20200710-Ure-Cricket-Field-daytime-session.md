@@ -34,4 +34,4 @@ So my thoughts are turning to my next session; I think I will give this weekend 
 
 |||
 |---------|------|
-|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|
+|<a href="/2020/07/Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/Fishing-Log/">Fishing Log</a>|

@@ -30,4 +30,4 @@ On the way back to the car I found another couple of slugs so look forward to my
 
 |||
 |---------|------|
-|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|
+|<a href="/2020/07/Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/Fishing-Log/">Fishing Log</a>|

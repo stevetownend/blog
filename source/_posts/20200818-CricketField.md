@@ -55,5 +55,5 @@ So I ended up with 3 Chub (1lb, 2.5lb and 3lb) and a nice Barbel. Even though mo
 
 |||
 |---------|------|
-|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|
+|<a href="/2020/07/Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/Fishing-Log/">Fishing Log</a>|
 

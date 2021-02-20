@@ -40,4 +40,4 @@ I immediately setup my camera just in case there were more Barbel around. I fish
 
 |||
 |---------|------|
-|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|
+|<a href="/2020/07/Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/Fishing-Log/">Fishing Log</a>|

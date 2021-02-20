@@ -28,4 +28,4 @@ So, no photos tonight and just a single small fish. I guess it would become bori
 
 |||
 |---------|------|
-|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|
+|<a href="/2020/07/Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/Fishing-Log/">Fishing Log</a>|

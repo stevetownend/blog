@@ -28,10 +28,10 @@ After about another 30 minutes the same rod tip bent around again. This also fel
 
 Only 2 sessions ago I had met my previous target of 10 Chub in my first season on the Ure so I set myself a new target of a 5lb Chub. Several of the guys in the club remarked that this target would probably be met by a fat winter Chub. The Ure once again came up trumps. I was going to set myself a target of a double figure Barbel but I also met that today. I will have to have a think about my next target.
 
-FYI: Here is my <a href="/2020/07/20200726-Fishing-Targets/">target diary</a>
+FYI: Here is my <a href="/2020/07/Fishing-Targets/">target diary</a>
 
 So, 2 bites and 2 incredible fish. It just goes to show that fishing can suddenly turn a blank into a session to remember. This was a magic 45 minutes. I was smiling to myself most of the way back to the car and look forward to my next visit. 
 
 |||
 |---------|------|
-|<a href="/2020/07/20200726-Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/20200816-FishingLog/">Fishing Log</a>|
+|<a href="/2020/07/Fishing-Targets/">Fishing Targets</a>|<a href="/2020/08/Fishing-Log/">Fishing Log</a>|

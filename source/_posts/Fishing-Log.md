@@ -66,7 +66,8 @@ This log will record all fish that I consider worthy of recording. This will var
 |31 Aug 20|Ure Ellenthorpe Corn Dryers|1|<a href="/2020/08/20200831-CornDryers/">2lb 8oz</a>|
 |27 Nov 20|Ure Ellenthorpe Middle Peg 25|1|<a href="/2020/11/20201127-Ellenthorpe-Middle/">2lb</a>|
 |02 Jan 21|Ure Ellenthorpe Corn Dryers|1|<a href="/2021/01/20210102-Ellenthorpe-CornDryers/">2lb 10oz</a>|
-|2020 Season Summary|Total weight: 12lb 11oz, Average weight: 2lb 2oz|6 fish||
+|19 Feb 21|Ure Cricket Field Peg 5|2|<a href="/2021/02/20210219-CricketField/">1lb 12oz, 1lb 10oz</a>|
+|2020 Season Summary|Total weight: 16lb 1oz, Average weight: 2lb 0oz|8 fish||
 
 ## Roach (Over 1lb)
 
