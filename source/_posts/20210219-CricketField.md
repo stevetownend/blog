@@ -8,6 +8,7 @@ tags:
 - Perch
 - Cricket Field
 ---
+*Level 10.8m*
 **Temperature Rising**
 The temperature has been rising over the past week. It was below zero all day when I fish one week ago but has been into double figures this week. Unfortunately there has been more rain so I have been watching the river level prediction like a hawk. At one point it looked like the level would be too high for today but it went down again and was just over a metre up from its normal level. I therefore decided to try Ings Lane Bottom again to see if the Chub were more active today. The forecast was for rain and gusty winds so had to take my brolly and probably have to stay in one peg - no roaming.
 
