@@ -38,7 +38,9 @@ This log will record all fish that I consider worthy of recording. This will var
 |12 Jun 20|Roecliffe Lake|1|<a href="/2020/06/20200601-Welcome-relief-from-Covid-19/">Lake report</a>|
 |09 Oct 20|Ure Ellenthorpe Middle peg 25|1|<a href="/2020/10/20201009-Ellenthorpe/">5lb 8oz</a>|
 |20 Nov 20|Ure Ellenthorpe Middle peg 25|1|<a href="/2020/11/20201120-Ellenthorpe-Middle/">5lb</a>|
-|2020 Season Summary|Total weight: 45lb 6oz, Average weight: 4lb 9oz|10 fish||
+|15 Mar 21|Roecliffe Lake peg 19|1|<a href="/2021/03/20210315-RoecliffeLake/">5lb 8oz</a>|
+|19 Mar 21|Roecliffe Lake peg 12|1|<a href="/2021/03/20210319-RoecliffeLake/">6lb 0oz</a>|
+|2020 Season Summary|Total weight: 56lb 14oz, Average weight: 4lb 12oz|12 fish||
 
 ## Chub (Over 3lb)
 
@@ -68,7 +70,9 @@ This log will record all fish that I consider worthy of recording. This will var
 |02 Jan 21|Ure Ellenthorpe Corn Dryers|1|<a href="/2021/01/20210102-Ellenthorpe-CornDryers/">2lb 10oz</a>|
 |19 Feb 21|Ure Cricket Field Peg 5|2|<a href="/2021/02/20210219-CricketField/">1lb 12oz, 1lb 10oz</a>|
 |28 Feb 21|Ure Ellenthorpe Middle Peg 25|1|<a href="/2021/02/20210228-EllenthorpeMiddle/">1lb 9oz</a>|
-|2020 Season Summary|Total weight: 17lb 10oz, Average weight: 1lb 15oz|9 fish||
+|04 Mar 21|Ure Ings Lane Bottom Peg 12-ish|2|<a href="/2021/04/20210305-CricketField/">2lb 0oz, 1lb 10oz</a>|
+|05 Mar 21|Ure Cricket Field Pegs 3 & 5|6|<a href="/2021/04/20210305-CricketField/">2lb 14oz, 2lb 4oz, 2lb 2oz, 2lb, 1lb 8oz, 1lb 8oz</a>|
+|2020 Season Summary|Total weight: 33lb 8oz, Average weight: 2lb 0oz|17 fish||
 
 ## Roach (Over 1lb)
 
